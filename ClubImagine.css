@@ -1,0 +1,250 @@
+body {
+    max-width: 1440px;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    max-width: 1440px;
+}
+
+.logo {
+    width: 80px;
+    height: 80px;
+    padding: 20px 20px;
+    text-align: center;
+}
+
+.i_logo_b {
+    width: 372.50px;
+    height: 48.00px;
+    padding-top: 38px;
+    padding-left: 30px;
+}
+
+.logo1 ul {
+    list-style: none;
+    display: flex;
+    padding: 20px 20px;
+    width: auto;
+    margin-left: 200px;
+}
+
+.logo1 li {
+    text-align: center;
+    width: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.half {
+    height: 20px;
+    width: 1440px;
+    background-color: #ACCFF2;
+}
+
+.backimg {
+    background: url("background.png");
+    background-position: center;
+    background-size: 100%;
+    width: max;
+    height: 492px;
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+}
+
+.backimg2 {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: max;
+    height: 492px;
+    text-align: center;
+    padding: 150px 0;
+}
+
+.admission {
+    padding: 8px 20px;
+    margin: auto;
+    background: #ACCFF2;
+    border: 1px solid #92B5D8;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    text-decoration: none;
+}
+
+a :visited {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    text-decoration: none;
+}
+
+.campaign {
+    position: relative;
+    margin-top: -600px;
+    width: 517px;
+    height: 1077px;
+    left: 462px;
+    top: 704px;
+    background: #5492CF;
+    border-radius: 20px;
+}
+
+.campaign0 {
+    text-align: center;
+    font-size: 15px;
+}
+
+.campaign_png {
+    padding-left: 65px;
+    width: 384px;
+    height: 216px;
+}
+
+.h5 {
+    padding-left: 65px;
+    margin: 0;
+}
+
+.waku {
+    text-align: center;
+    padding: 10px 10px;
+    margin: 20px 20px;
+    border: 2px solid #EEF4FA;
+    border-radius: 10px;
+}
+
+.A {
+    position: absolute;
+    left: 360px;
+    top: 257px;
+    width: 100px;
+    height: 100px;
+    background: #ACCFF2;
+    border-radius: 50%;
+    text-align: center;
+    border: 1px solid #92B5D8;
+}
+
+.B {
+    position: absolute;
+    left: 360px;
+    top: 517px;
+    width: 100px;
+    height: 100px;
+    background: #ACCFF2;
+    border-radius: 50%;
+    text-align: center;
+    border: 1px solid #92B5D8;
+}
+
+.C {
+    position: absolute;
+    left: 360px;
+    top: 767px;
+    width: 100px;
+    height: 100px;
+    background: #ACCFF2;
+    border-radius: 50%;
+    text-align: center;
+    border: 1px solid #92B5D8;
+}
+
+.kome {
+    padding-left: 65px;
+    margin-top: 0px;
+    font-size: 10px;
+}
+
+.about {
+    text-align: center;
+    margin-top: 800px;
+}
+
+.about h2 {
+    position: relative;
+    font-size: 50px;
+}
+
+.kugiri {
+    position: absolute;
+    height: 3px;
+    width: 200px;
+    background-color: #ACCFF2;
+    margin-top: -50px;
+    margin-left: 620px;
+    margin-bottom: 80px;
+}
+
+.waku2 {
+    position: absolute;
+    z-index: 2;
+    width: 690px;
+    height: 117px;
+    background: #CED4D9;
+    border-radius: 5px;
+    margin-left: 500px;
+    margin-top: 40px;
+}
+
+.waku2 h4 {
+    font-size: 30px;
+}
+
+.waku3 {
+    position: absolute;
+    z-index: 1;
+    width: 907px;
+    height: 444px;
+    background: #54B3CF;
+    border-radius: 10px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+.waku3 p {
+    font-size: 30px;
+    padding-top: 170px;
+    color: #FFFFFF;
+}
+
+.benefits {
+    text-align: center;
+    margin-top: 700px;
+}
+
+.benefits h2 {
+    position: relative;
+    font-size: 50px;
+}
+
+.kugiri2 {
+    position: absolute;
+    height: 3px;
+    width: 350px;
+    background-color: #ACCFF2;
+    margin-top: -50px;
+    margin-left: 540px;
+    margin-bottom: 80px;
+}
+
+.benefits {
+    font-size: 30px;
+}
+
+.benefits-contents {
+    text-align: left;
+    position: absolute;
+    width: 919px;
+    height: 1000px;
+    margin-left: 250px;
+    background: #5492CF;
+    border-radius: 10px;
+    font-size: 20px;
+}
